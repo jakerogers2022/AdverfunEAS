@@ -3,7 +3,7 @@
 If you are having problems with the app please email this1is1so1awesome@gmail.com
 
 ### Apps
-**Bold** Adverfun
+**Adverfun**
  Common Questions:
  1. Do I as a user make money from this app?
     - No, the developer of the app may make money from advertisements
@@ -14,7 +14,7 @@ If you are having problems with the app please email this1is1so1awesome@gmail.co
     - Please email this1is1so1awesome@gmail.com with concerns
 
 
-**Bold** Xplor
+**Xplor**
  Troubleshooting:
  1. Location tracking is not working
     - Check if battery optimization is turned on.
