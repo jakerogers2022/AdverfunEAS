@@ -3,17 +3,6 @@
 If you are having problems with the app please email this1is1so1awesome@gmail.com
 
 ### Apps
-**Adverfun**
- Common Questions:
- 1. Do I as a user make money from this app?
-    - No, the developer of the app may make money from advertisements
- 2. Why aren't ads showing up?
-    - Users can only watch 10 ads a day
-    -  The ads may be stopped for a period of time in which none will be shown
- 3. What do I do if the app stops working?
-    - Please email this1is1so1awesome@gmail.com with concerns
-
-
 **Xplor**
  Troubleshooting:
  1. Location tracking is not working
@@ -29,6 +18,19 @@ If you are having problems with the app please email this1is1so1awesome@gmail.co
 
  4. Started exploring a new location, but no map trail is showing up?
     - Make sure you have access to the internet when starting a new location so the map can be downloaded.
+
+
+**Adverfun**
+ Common Questions:
+ 1. Do I as a user make money from this app?
+    - No, the developer of the app may make money from advertisements
+ 2. Why aren't ads showing up?
+    - Users can only watch 10 ads a day
+    -  The ads may be stopped for a period of time in which none will be shown
+ 3. What do I do if the app stops working?
+    - Please email this1is1so1awesome@gmail.com with concerns
+
+
 
 
 ThisIsSoAwesome 2022
